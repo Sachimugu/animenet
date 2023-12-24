@@ -2,6 +2,4 @@
 
 https://animenet-53dp.vercel.app/details/38000
 
-
-
-
+![Alt Text](./anime.png)
